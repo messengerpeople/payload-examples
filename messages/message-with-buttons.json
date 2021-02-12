@@ -1,0 +1,20 @@
+{
+  "sender": "abcdef12-3456-7890-abcd-ef1234567890",
+  "recipient": "1234567890",
+  "payload": {
+     "type": "text",
+     "text": "Hello World",
+     "buttons": [
+            {
+                "type": "url",
+                "payload": "https://example.com",
+                "caption": "Button-Text"
+            },
+            {
+                "type": "text",
+                "payload": "__unsubscribe",
+                "caption": "Unsubscribe"
+            }
+        ]
+     }     
+}
