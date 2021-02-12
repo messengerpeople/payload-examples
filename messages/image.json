@@ -1,0 +1,9 @@
+{
+  "sender": "abcdef12-3456-7890-abcd-ef1234567890",
+  "recipient": "1234567890",
+  "payload": {
+     "type": "image",
+     "attachment": "abcdef12-3456-7890-abcd-ef1234567890",
+     "text": "Optional caption"
+     }     
+}
